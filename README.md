@@ -12,12 +12,12 @@
 <br/><br/>
 <p align='center'>
 <a href="https://github.com/HopeMashal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HopeMashal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HopeMashal&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
 </a>
 <br/><br/>
 <a href="https://github.com/HopeMashal/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeMashal&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeMashal&layout=compact&theme=dark" />
 </a>
 </p>
 
