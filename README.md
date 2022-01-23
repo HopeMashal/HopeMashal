@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Hope/Amal 😄💚</h1>
 <h2 align='center'> I'm a Full-Stuck Developer and Mechatronics Engineer.</h2>
 <br/>
-- 👀 I’m interested in art and programming and AI and machine learning. <br/>
+- 👀 I’m interested in art, programming, AI and machine learning. <br/>
 - 🌱 I’m currently learning Full-Stack Development. <br/>
 - 💞️ I’m looking to collaborate on creative work. <br/>
 - 📫 How to reach me 
