@@ -12,7 +12,7 @@
 <br/><br/>
 <p align='center'>
 <a href="https://github.com/HopeMashal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HopeMashal&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HopeMashal&show_icons=true&include_all_commits=true&theme=dark" alt="Hope's github stats" />
 </a>
 <br/><br/>
 <a href="https://github.com/HopeMashal/github-readme-stats">
