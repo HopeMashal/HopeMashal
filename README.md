@@ -19,6 +19,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeMashal&layout=compact&theme=dark" />
 </a>
+<br/><br/>
+<a href="https://github.com/HopeMashal/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HopeMashal&theme=dark" />
+</a>
 </p>
 
 <h3> Languages and Tools: </h3>
