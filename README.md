@@ -6,13 +6,13 @@
 - 💞️ I’m looking to collaborate on creative work. <br/>
 - 📫 How to reach me 
     <a align='center' href="https://www.linkedin.com/in/amal-mishael">
-        <img height="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" className='social-media-icon' fill="gray"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
     </a> 
     <a align='left' href="https://www.facebook.com/hopemas97">
-        <img height="20px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="gray"><path d="M22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z"/></svg>
     </a> 
     <a href="mailto:mashal.hope@gmail.com">
-        <img height="20px" src="https://cdn-icons.flaticon.com/png/512/3296/premium/3296464.png?token=exp=1651597619~hmac=80ac28b7ee7ef179e3f5a1b559e154ea" />
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" className='social-media-icon' fill="gray"><path d="M12 12.713l-11.985-9.713h23.971l-11.986 9.713zm-5.425-1.822l-6.575-5.329v12.501l6.575-7.172zm10.85 0l6.575 7.172v-12.501l-6.575 5.329zm-1.557 1.261l-3.868 3.135-3.868-3.135-8.11 8.848h23.956l-8.11-8.848z"/></svg>
     </a>
 <br/><br/>
 <p align='center'>
