@@ -8,8 +8,6 @@
 
 - 💞️ I’m looking to collaborate on creative work. 
 
-- 🔭 I’m currently working on [My Portfolio](https://hope-website.netlify.app/)
-
 - 👨‍💻 All of my projects are available at [Hope Website](https://hope-website.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, ReactJS, NodeJS, Arduino, AutoCAD and SolidWorks**
