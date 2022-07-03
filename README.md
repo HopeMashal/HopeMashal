@@ -2,6 +2,8 @@
 <h2 align='center'> I'm a Full-Stuck Developer and Mechatronics Engineer.</h2>
 <br/>
 
+<img align="right" alt="GIF" src="./Chat-bot.gif" width="300" height="300" />
+
 - 👀 I’m interested in art, programming, AI and machine learning.  
 
 - 🌱 I’m currently learning **Testing Automation Development & Machine Learning**
