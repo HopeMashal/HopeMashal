@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in art, programming, AI and machine learning.  
 
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I’m currently learning **Testing Automation Development & Machine Learning**
 
 - 💞️ I’m looking to collaborate on creative work. 
 
