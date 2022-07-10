@@ -66,9 +66,10 @@
 
 <img align="left" alt="Arduino" width="26px" style="margin:5px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
 <img align="left" style="margin:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px"/>
-<img align="left" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="matlab" width="26px"/> 
+<img align="left" style="margin:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="26px"/> 
 <img align="left" style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="26px"/> 
-<img align="left" style="margin:5px" src="https://cdn.onlinewebfonts.com/svg/img_437079.png" alt="matlab" width="26px"/> 
+<img align="left" style="margin:5px" src="https://cdn.onlinewebfonts.com/svg/img_437079.png" alt="solidworks" width="26px"/>
+<img align="left" style="margin:5px" src="https://user-images.githubusercontent.com/27867704/37542893-13732d8a-2936-11e8-9dba-0f618abe8331.png" alt="Autocad" width="26px"/> 
 
 <br/><br/>
 
